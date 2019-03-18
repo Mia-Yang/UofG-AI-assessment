@@ -1,0 +1,7 @@
+
+--------------------------
+ problem_id :   0
+ Identified goal state:   <Node S_7_4>
+ Number of Steps:   13
+ Solution trace:   [<Node S_7_4>, <Node S_7_5>, <Node S_6_5>, <Node S_5_5>, <Node S_4_5>, <Node S_4_4>, <Node S_3_4>, <Node S_2_4>, <Node S_1_4>, <Node S_0_4>, <Node S_0_3>, <Node S_0_2>, <Node S_0_1>, <Node S_0_0>]
+ iteration used:   155
